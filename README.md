@@ -17,7 +17,7 @@
 - Accept and process credit card payments from users
 - Build reusable user inputs with Redux Form, complete with navigation
 
-## Link 
+## Links
 [Emaily](https://mysterious-peak-11085.herokuapp.com/)
 
 [Udemy Course](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
